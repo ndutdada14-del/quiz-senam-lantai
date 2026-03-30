@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Senam Lantai</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="quiz-container">
+    <h1>Quiz Senam Lantai</h1>
+    <div id="question">Pertanyaan muncul di sini</div>
+
+    <div id="answers">
+        <!-- Jawaban -->
+    </div>
+
+    <button id="nextBtn">Next</button>
+    <h2 id="score"></h2>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
